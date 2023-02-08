@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Skye',
-  domain: 'https://gratis-flood-4c2.notion.site/Skye-Lu-a47082e523a14caabd31d98569015142',
+  domain: 'https://skyelu.notion.site/Skye-Lu-a47082e523a14caabd31d98569015142',
   author: 'Skye',
 
   // open graph metadata (optional)
